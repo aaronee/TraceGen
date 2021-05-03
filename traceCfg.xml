@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<module name="name_of_module">
+		<location dir="abs_path_location"/>
+		<header_file name="name_of_header_file">
+			<array enum_name="name_of_enum">
+				<member enum_member="name_of_enum_member">enum_value</member>
+			</array>
+		</header_file>
+	</module>
+</root>
